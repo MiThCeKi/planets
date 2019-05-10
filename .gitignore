@@ -1,0 +1,7 @@
+#this is the list of files to ignore
+*.dat
+results/
+
+#this is the list of things NOT to ignore
+!example.dat 
+results/examples.out
